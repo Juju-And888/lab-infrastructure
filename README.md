@@ -1,5 +1,10 @@
 # lab-infrastructure
-Ce repo a pour but de documenter 1 infrastructure multi serveur et les technologies mises en place pour mettre à disposition différents services afin de créer un pipeline complet CI/CD open source. 
+This repo exists to document an multi server infrastructure and the technology stack in place to deploy various services.
+
+One part of the goal is to create a fully open source CI/CD pipeline. 
+
+There will also be manifests and scripts that I created and used.
+
 
 ## Technology Stack
 
